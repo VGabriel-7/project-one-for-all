@@ -76,11 +76,11 @@ INSERT INTO `SpotifyClone`.`Users` (`name`, `age`, `id_Plan`, `signature_date`)
     ('Ada Lovelace', 37, 4, '2017-12-30'),
     ('Martin Fowler', 46, 4, '2017-01-17'),
     ('Sandi Metz', 58, 4, '2018-04-29'),
-    ('Paulo Freire', 19, 3, '2018-02-14'),
-    ('Bell Hooks', 26, 3, '2018-01-05'),
-    ('Christopher Alexander', 85, 2, '2019-06-05'),
-    ('Judith Butler', 45, 2, '2020-05-13'),
-    ('Jorge Amado', 58, 2, '2017-02-17');
+    ('Paulo Freire', 19, 2, '2018-02-14'),
+    ('Bell Hooks', 26, 2, '2018-01-05'),
+    ('Christopher Alexander', 85, 3, '2019-06-05'),
+    ('Judith Butler', 45, 3, '2020-05-13'),
+    ('Jorge Amado', 58, 3, '2017-02-17');
     
 INSERT INTO `SpotifyClone`.`Artists` (`artist`)
     VALUES 
