@@ -1,4 +1,4 @@
-SELECT DISTINCT
+SELECT
 	U.`name` AS 'usuario',
     IF(MAX(YEAR(Ph.release_date_of)) >= 2021,
 		'Usuário ativo', 'Usuário inativo') AS 'status_usuario'
